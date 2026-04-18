@@ -14,7 +14,7 @@
 <td align="center"><img src="https://raw.githubusercontent.com/dydanz/devicon/master/icons/embeddedc/embeddedc-original.svg" title="Embedded C" width="30" height="30"/></td>
 <td align="center"><img src="https://raw.githubusercontent.com/dydanz/devicon/master/icons/linux/linux-original.svg" title="Linux" width="30" height="30"/></td>
 <td align="center"><img src="https://raw.githubusercontent.com/dydanz/devicon/master/icons/git/git-original.svg" title="Git" width="30" height="30"/></td>
-<td align="center"><img src="./claude.png" title="Claude Code" width="30" height="30"/></td>
+<td align="center"><img src="https://github.com/dydanz/dydanz/blob/main/assets/claude.svg" title="Claude Code" width="30" height="30"/></td>
 </tr></table>
 <table><tr>
 <td align="center"><img src="https://raw.githubusercontent.com/dydanz/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="30" height="30"/></td>
