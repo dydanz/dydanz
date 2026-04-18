@@ -31,7 +31,7 @@
 
 
 <p align="center">
-  <a href="https://dydanz.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/dydanz/devicon/master/icons/github/github-original.svg" alt="Blog" width="36" height="36"/></a>
+  <!-- <a href="https://dydanz.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/dydanz/devicon/master/icons/github/github-original.svg" alt="Blog" width="36" height="36"/></a> -->
   &nbsp;
   Stories from the trenches — software engineering, engineering management, and everything in between.
   &nbsp;
@@ -39,9 +39,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dandi-diputra/" target="_blank"><img src="https://raw.githubusercontent.com/dydanz/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="36" height="36"/></a>
+  <!-- <a href="https://www.linkedin.com/in/dandi-diputra/" target="_blank"><img src="https://raw.githubusercontent.com/dydanz/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="16" height="16"/></a> -->
   &nbsp;
-  Want to connect or just say hi? Feel free to reach out on LinkedIn.
+  Want to connect or just say hi? Feel free to reach out on LinkedIn. 
   &nbsp;
   <a href="https://www.linkedin.com/in/dandi-diputra/" target="_blank">Let's connect →</a>
 </p>
