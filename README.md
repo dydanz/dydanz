@@ -1,5 +1,11 @@
-## Hi there 👋
 
+<h2 align="center">Hi 👋, I'm Dandi</h2>
+<h3 align="center">A passionate Software Engineer Lead, Engineering Manager from Indonesia</h3>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dydanz&label=Profile%20views&color=0e75b6&style=flat" alt="dydanz" /> </p>
+
+
+<p align="center">- 👨‍💻 All of my projects and blogs are available at https://dydanz.github.io/</p>
 <!--
 **dydanz/dydanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
