@@ -1,6 +1,6 @@
 
 <h2 align="center">Hi 👋, I'm Dandi</h2>
-<h3 align="center">A passionate Software Engineer Lead, Engineering Manager from Indonesia</h3>
+<h3 align="center">A full-of-curiousity software engineer, seasoned engineering manager from Indonesia</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dydanz&label=Profile%20views&color=0e75b6&style=flat" alt="dydanz" /> </p>
 
